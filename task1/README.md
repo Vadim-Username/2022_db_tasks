@@ -9,3 +9,6 @@
 
 ## Результат 
 Приложить в данную папку снимок экрана с pgAdmin с установленной базой данных Rental
+
+![Безымянный](https://user-images.githubusercontent.com/75004893/165777731-379a169b-082b-4b23-89e6-c99667841dca.png)
+![123333](https://user-images.githubusercontent.com/75004893/165778991-7810afa3-401f-4fb7-a883-80010f0b9cd4.png)
